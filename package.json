@@ -1,7 +1,7 @@
 {
   "name": "dt-xxx-pc",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@9.5.0",
   "author": "沈孟平 <artsmp@126.com>",
