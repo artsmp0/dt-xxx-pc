@@ -17,6 +17,38 @@
         "title": "文档",
         "icon": "sidebar-soccer"
       }
+    },
+    {
+      "path": "/Project",
+      "meta": {
+        "title": "项目管理",
+        "hideInMenu": false,
+        "hideInTab": false,
+        "isPage": false
+      },
+      "children": [
+        {
+          "path": "/Project/List",
+          "meta": {
+            "title": "项目列表",
+            "hideInMenu": false,
+            "hideInTab": false,
+            "isPage": true
+          },
+          "children": [
+            {
+              "path": "/Project/List/Detail",
+              "meta": {
+                "title": "项目详情",
+                "hideInMenu": true,
+                "hideInTab": true,
+                "isPage": true
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "button": [
