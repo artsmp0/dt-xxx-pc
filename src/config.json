@@ -1,0 +1,12 @@
+{
+  "CUR_THEME": "default",
+  "SHOW_BREADCRUMB": true,
+  "TAB_POSITION": "top",
+  "SHOW_REFRESH_BTN": true,
+  "SHOW_FULLSCREEN_BTN": true,
+  "SHOW_THEME_BTN": true,
+  "SHOW_AVATAR": true,
+  "SIDE_WIDTH": 200,
+  "PAGE_ANIMATION": "fade",
+  "STORAGE_TAB": true
+}

@@ -1,0 +1,37 @@
+{
+  "router": [
+    {
+      "path": "/Overview",
+      "meta": {
+        "title": "总览",
+        "icon": "sidebar-dashboard",
+        "hideInMenu": false,
+        "hideInTab": false
+      },
+      "children": []
+    },
+    {
+      "path": "/docs",
+      "meta": {
+        "iframe": "https://demo.group-ds.com/dev-business-kits-docs/",
+        "title": "文档",
+        "icon": "sidebar-soccer"
+      }
+    }
+  ],
+  "button": [
+    {
+      "title": "测试按钮",
+      "path": "demo"
+    }
+  ],
+  "otherPage": [
+    {
+      "path": "/Demo/OtherPage",
+      "meta": {
+        "title": "其他页面",
+        "hideInTab": true
+      }
+    }
+  ]
+}
